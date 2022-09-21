@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "996788194826",
+    "project_id": "famous-team-c80ef",
+    "storage_bucket": "famous-team-c80ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996788194826:android:ed87e3a280c66e863599f3",
+        "android_client_info": {
+          "package_name": "com.famoussteamstaff.famous_steam_staff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996788194826-kao9np3aq88v61hp9o7is27fpn3hfjjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeEf9ehr0N-42rjlQ-ty_KccRsB_mU1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996788194826-kao9np3aq88v61hp9o7is27fpn3hfjjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996788194826-0v2qufqhkibttbtt18mq79dj7jvmv49f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.famoussteamuser.famousSteamUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996788194826:android:1e7482e15182dbc83599f3",
+        "android_client_info": {
+          "package_name": "com.famoussteamuser.famous_steam_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996788194826-kao9np3aq88v61hp9o7is27fpn3hfjjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeEf9ehr0N-42rjlQ-ty_KccRsB_mU1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996788194826-kao9np3aq88v61hp9o7is27fpn3hfjjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996788194826-0v2qufqhkibttbtt18mq79dj7jvmv49f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.famoussteamuser.famousSteamUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
